@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(217, 195, 199);
+}
+
+.one,.two{
+    color: green;
+}
+.names{
+    list-style-type: square;
+}

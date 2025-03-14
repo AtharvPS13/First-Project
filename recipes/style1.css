@@ -1,0 +1,18 @@
+*{
+    background-color: lightblue;
+}
+h1{
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    border: antiquewhite;
+    width: 200px;
+    height: auto;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
